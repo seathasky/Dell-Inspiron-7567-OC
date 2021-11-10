@@ -1,4 +1,4 @@
-# Dell-Inspiron-7567 Hackintosh (Big Sur/Monterey ready)
+# Dell-Inspiron-7567 Hackintosh (Big Sur)
 Updated Opencore EFI for Dell Inspiron 7567 Hackintosh.<br>
 Clone tools for combojack if needed.<br>
 
