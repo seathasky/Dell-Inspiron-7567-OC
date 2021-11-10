@@ -9,8 +9,9 @@ Current OC EFI version:
 
 Known issues: 
 
-- Audio pops during boot.
-- Tested in Monterey, but wifi did not work and had long boot times.
+- IGPU only.  1050ti disabled.
+- Audio pops during boot. No subwoofer.
+- Tested in Monterey. WIFI not functioning.
 
 ---
 
