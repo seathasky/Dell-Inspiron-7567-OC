@@ -10,6 +10,7 @@ Current OC EFI version:
 Known issues: 
 
 - Audio pops sometimes.
+- Tested in Monterey, but wifi did not work and long boot times.
 
 ---
 
